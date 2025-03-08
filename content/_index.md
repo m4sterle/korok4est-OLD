@@ -1,32 +1,26 @@
----
-title: "korok4est"
-tags:
-  - evergreen
----
-
 ![[banner.png]]
+```poetry
+OY, YOU THERE!! WOT are you doing in me forest, eh?
+```
 
-# Welcome to the korok4est 🌱
+## walcam to ~masterle's korok4est.
+welcome to the GRAND 🌱 [[notes/about-this-site.md|korok4est]] 🌱, but beware... for this is no ordinary forest - it's my living digital notebook, soon to be filled with my experiences as a poor, sad medical school-dropout who finds herself venturing upon a _(very)_ surprising journey into tech. **SO,** be prepared for the chaos that runs thru my minds when all of these interests collide.
 
-*where clinical wisdom meets digital exploration... ya ha ha!*
+well, *go on*, choose yo fate:
 
-This digital garden documents my journey at the intersection of medicine and technology - a space where clinical reasoning frameworks transform into code, where medical knowledge finds new expression through creative design, and where personal growth happens through integration rather than fragmentation.
+### 🗺️ main trails
+- take a gander at my latest [[notes/incubations|incubations]]?
 
-Within these digital leaves, you'll discover the workings of Master Le, Inc. - a framework I've created to make sense of my multifaceted journey from medical student to clinical tech sage.
+### 📜 the lore
+- uncover the origin story of [[notes/about-me.md|the master, herself]]? 
+- or perhaps... meet the company called [[notes/masterle-inc.md|master le, inc.]]…
 
-## The Master Le, Inc. Team
 
-- **[[Detective Le]]** - Our clinical reasoning specialist, connecting medical knowledge with diagnostic frameworks
-- **[[YOG1TRON]]** - The data-dawg developer who transforms clinical insights into technical implementations
-- **[[Heart Le]]** - The creative director who brings our ideas to visual life through design and storytelling
-- **[[Master Le]]** - The CEO who integrates all these perspectives into a cohesive vision
+### 🗝️ forest meta
+- more on this mysterious [[notes/about-this-site.md|korok4est]]  *(ya ha ha!)*
 
-## Explore the Forest
 
-- **[[origin-story|From Fragmentation to Integration]]** - How this digital garden came to be
-- **[[detective-cases|Detective Le's Case Files]]** - Clinical reasoning in action
-- **[[yogi-lab-notes|YOG1TRON's Lab Notes]]** - Technical explorations and coding adventures
-- **[[heart-designs|Heart Le's Design Studio]]** - Creative expressions and visual systems
-
-> "It's dangerous to go alone! Take this digital garden with you." 
-> - Master Le 💖
+```poetry
+"It's dangerous to go alone! Take this knowledge with you." 
+- ~masterle :)
+```

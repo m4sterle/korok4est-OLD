@@ -5,7 +5,7 @@ tags:
 ---
 
 
- Hi! I'm a former medical student from Dell Medical School (class of 2026) who's currently navigating quite an unexpected and scary 'af (but also maybe a bit exciting?) plot twist in my career journey. 
+ Hi! I'm a former medical student who's currently navigating quite an unexpected and scary 'af (but also maybe a bit exciting?) plot twist in my career journey. 
  
  My story from the get-go begins with the cookie-cutter origin story—1st generation Vietnamese girl born to poor 'af Viet parents, strives for LARGE SUCCESS, studies hard, werks like a queen, achieves things like becoming salutatorian of her high school, OH and we can't forget the "me know me like _something_ about _science_; me know me hate other subjects", etc. You get da point—for most of my life, it's been a linear progression up in one direction. 
 

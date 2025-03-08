@@ -25,4 +25,3 @@ My goal isn't to leave medicine behind - it's more about finding a new way to co
 It's definitely a journey with its challenges, but I'm actually kind of excited about where this path might lead. Like, who knew my love for organizing clinical knowledge and creating visual learning tools would end up pushing me toward such an exciting intersection of medicine and tech? Plus, I've got this whole digital garden that's just waiting to grow into something amazing - maybe even a platform for others navigating similar transitions or interests!
 
 *Phew!* That's me! A bit of a plot twist from my original medical school story, but honestly? I think this might be an even more interesting quest line! 🌱✨
-***
