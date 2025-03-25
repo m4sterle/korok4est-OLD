@@ -9,7 +9,7 @@ tags:
  
  My story from the get-go begins with the cookie-cutter origin story—1st generation Vietnamese girl born to poor 'af Viet parents, strives for LARGE SUCCESS, studies hard, werks like a queen, achieves things like becoming salutatorian of her high school, OH and we can't forget the "me know me like _something_ about _science_; me know me hate other subjects", etc. You get da point—for most of my life, it's been a linear progression up in one direction. 
 
-Surprisingly, I don't think I really knew my authentic and genuine answer to the notorious [[why-medicine.md|"why medicine?"]] question until after I started medical school. You see, throughout my time in medical school, I found out that I had secretly signed up to [[notes/game-of-clue.md|play one big never-ending game of clue]] for a living... AND I LOVED THAT! Who knew the act of clue-gathering and making your final accusation by the principles of clinical reasoning and differential diagnosis... would be ***so much fun?!*** 
+Surprisingly, I don't think I really knew my authentic and genuine answer to the notorious [[why-medicine.md|"why medicine?"]] question until after I started medical school. You see, throughout my time in medical school, I found out that I had secretly signed up to [[notes/game-of-clue.md|play one big never-ending game of clue]] for a living... AND I LOVED THAT! Who knew the act of clue-gathering and making your final accusation by the principles of clinical reasoning and differential diagnosis... would be _so much fun?!_
 
  In the most simplest terms, the job of a physician is to take a complex set of symptoms and systematically work through possibilities to reach a diagnosis. Like, at this point... every doctor should be carrying a magnifying glass along with their stethoscope, cause... **sis, you a DETECTIVE NOW.** (We all know [[Detective Le]] does...)
 
@@ -28,5 +28,5 @@ SOOOO.... what am I up to right this second? ***WHALE***, I'm at this interestin
 
 The best part? This journey feels less like leaving medicine behind and more like discovering  a new way to pursue my original goal of improving healthcare - just with a different set of tools than I initially imagined. Instead of treating patients directly, I'm could potentially create these bad ass tools that could help countless healthcare providers in their clinical reasoning processes. Maybe this alternate quest route will end up actually fitting [[Master Le|[Master Le|the master's character build]] better, who knows? 🌱✨
 
-*OK NOW **SHADDAP** AND **EXPLORE THE REST OF ME [[korok4est.md]]**.*
+*OK NOW **SHADDAP** AND **EXPLORE THE REST OF ME [[korok4est.md]]**
 Check out my [[main-trails]] or learn more about [[masterle-inc.md]]!
